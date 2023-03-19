@@ -11,3 +11,80 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#i1{
+  padding-top: 15px;
+  width:250px;
+  height:150px;
+  display: inline-block;
+}
+#a1{
+  text-align: center;
+  font-weight: bold;
+}
+#h11{
+  padding-left: 19px;
+}
+.im1{
+  width: 100%;
+  height:550px;
+}
+#aa{
+  display: inline-block;
+  margin: 0 210px 0 210px;
+  font-family: 'Seymour One', sans-serif;
+  padding: 20px 0 20px 0;
+}
+#branding{
+  margin: 0 210px 0 210px;
+}
+#a2{
+  width: 100%;
+  height:500px;
+}
+.con{
+  display: inline-block;
+  margin-right: 100px;
+  padding-top: 15px;
+}
+.t1{
+  border: solid 5px black;
+  border-radius: 15px;
+  padding: 10px 10px 10px 10px;
+  margin: 8px 0px 8px 0px;
+  width:420px;
+  color:brown;
+}
+#k1{
+  text-align: center;
+}
+#g1{
+  display: inline-block;
+  margin:5px 5px 5px 5px;
+
+}
+#p1,#p2,#p3{
+  margin-top:20px;
+}
+#login,#signup{
+  margin:3% 38% 0 38%;
+  background-color: lightblue;
+  padding:10px 10px 10px 10px;
+  border-radius:25px;
+}
+.pp1{
+  margin-left: 30px;
+}
+
+#web_dev{
+  background-color: beige;
+  border-radius:15px;
+
+}
+#web_dev1{
+  background-color: beige;
+  border-radius:15px;
+  padding-bottom: 18px;
+}
+#wpa{
+  padding: 10px 0 10px 0;
+}
